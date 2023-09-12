@@ -24,10 +24,11 @@
       <term name="accessed">dostęp</term>
       <term name="retrieved">Dostępny w</term>
       <term name="from">z</term>
-      <term name="page" form="short">
-        <single>s.</single>
-        <multiple>s.</multiple>   
-      <term name="ibid">tamże</term>
+	  <term name="ibid">tamże</term>
+     <term name="page" form="short">
+			<single>s.</single>
+            <multiple>s.</multiple>   
+      
       </term>
       <term name="accessed">udostępniono</term>
     <term name="and">i</term>
@@ -116,9 +117,9 @@
       <single>sekcja</single>
       <multiple>sekcje</multiple>
     </term>
-    <term name="sub verbo">
-      <single>sub verbo</single>
-      <multiple>sub verbis</multiple>
+    <term name="sub-verbo">
+		<single>sub verbo</single>
+		<multiple>sub verbis</multiple>
     </term>
     <term name="verse">
       <single>wers</single>
